@@ -13,7 +13,7 @@ loadMoreBtn.onclick = () => {
 }
     //carrito
     const carrito = document.getElementById('carrito');
-    const elementos1 = document.getElementById('lista-1');
+    const elementos1 = document.getElementById('list-1');
     const lista = document.querySelector('#lista-carrito tbody');
     const vaciarCarritoBtn = document.getElementById('vaciar-carrito');
 
